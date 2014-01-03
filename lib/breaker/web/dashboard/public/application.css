@@ -1,0 +1,32 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.fuse-item {
+  text-align: center;
+}
+
+.fuse-item.well {
+  padding: 10px;
+}
+
+.fuse-item h3 {
+  margin-top: 10px;
+}
+
+.fuse-item hr {
+  border-top-color: #b3b3b3;
+}
+
+.fuse-item p span {
+  font-weight: bold;
+}
+
+.fuse-item p span:after {
+  content: ': ';
+}
+
+footer {
+  text-align: center;
+}
